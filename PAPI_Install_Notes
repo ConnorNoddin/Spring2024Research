@@ -1,0 +1,11 @@
+Failed ctests/second
+
+Failed ctests/shlib
+
+Failed component tests
+Running components/perf_event/tests/perf_event_system_wide:
+Running components/perf_event/tests/perf_event_user_kernel:
+
+
+This cam up all over the place
+PAPI Error: Couldn't open hw_instructions in exclude_guest=0 test
