@@ -5,6 +5,8 @@
  * gcc -O2 -Wall -o papi_test papi_test.c -lpapi
  */
 
+/* vscode test */
+
 #define NUM_EVENTS 2
 
 int main() {
